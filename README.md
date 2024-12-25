@@ -28,3 +28,5 @@ Generated commit history for repository-2024-12-30-19-00-58
 
 - Update documentation for core (2024-12-25 21:00)
 
+- Fix bug in auth (2024-12-25 21:15)
+
