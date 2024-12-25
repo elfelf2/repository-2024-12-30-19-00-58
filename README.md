@@ -18,3 +18,5 @@ Generated commit history for repository-2024-12-30-19-00-58
 
 - Improve error handling in core (2024-12-24 20:00)
 
+- Fix security issue in database (2024-12-25 20:00)
+
