@@ -36,3 +36,5 @@ Generated commit history for repository-2024-12-30-19-00-58
 
 - Optimize backend performance (2024-12-27 20:30)
 
+- Add tests for api (2024-12-27 20:45)
+
