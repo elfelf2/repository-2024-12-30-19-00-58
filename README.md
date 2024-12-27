@@ -38,3 +38,5 @@ Generated commit history for repository-2024-12-30-19-00-58
 
 - Add tests for api (2024-12-27 20:45)
 
+- Improve error handling in config (2024-12-27 21:00)
+
